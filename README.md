@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AbisekRana
+- 👀 I’m interested in machine learnin/data science 
+- 🌱 I’m currently learning CNN and RNN
+- 💞️ I’m looking to collaborate on RNN project 
+- 📫 How to reach me https://instagram.com/_.abhi_rana._?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D
